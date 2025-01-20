@@ -1,3 +1,3 @@
 duck
-mooose
+mouse
 cat
