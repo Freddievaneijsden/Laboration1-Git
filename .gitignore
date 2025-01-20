@@ -1,0 +1,8 @@
+# Ignorera alla .jar-filer
+*.jar
+# Ignorera alla filer i katalogerna out och target
+
+.idea/
+out/
+target/
+!target/**/*.html
